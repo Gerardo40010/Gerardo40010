@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I´m Gerardo40010</h1>
   <h3 aling="center">I like technology and use computers, and I'm learning to program in different languages
 </div>
-<--
-**Gerardo40010/Gerardo40010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<!--**Gerardo40010/Gerardo40010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###About Me:
 
-- 🔭 I’m studying in at Domingo Savio University ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m studying in at Domingo Savio University 
+- 🌱 I’m currently learning programming and web design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
