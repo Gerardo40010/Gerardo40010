@@ -1,5 +1,7 @@
+<div id="header" aling"center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
 ### Hi 👋, I´m Gerardo40010
-
+</div>
 <!--
 **Gerardo40010/Gerardo40010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
