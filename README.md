@@ -1,6 +1,6 @@
 <div id="header" aling="center">
-  <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="100"/>
-<h1 align="center">Hi 👋, I´m Gerardo40010
+  <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200"/>
+<h1 align="center">Hi 👋, I´m Gerardo40010</h1>
 </div>
 <!--
 **Gerardo40010/Gerardo40010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
