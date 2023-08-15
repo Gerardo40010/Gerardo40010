@@ -1,5 +1,6 @@
 <div id="header" aling"center">
-  <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200" aling
+  ="center"/>
 <h1 align="center">Hi 👋, I´m Gerardo40010
 </div>
 <!--
