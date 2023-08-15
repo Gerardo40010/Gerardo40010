@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I´m Gerardo40010</h1>
   <h3 aling="center">I like technology and use computers, and I'm learning to program in different languages
 </div>
----
+--->
 
 ###About Me:
 
@@ -15,4 +15,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
+
