@@ -4,7 +4,6 @@
   <h3 aling="center">I like technology and use computers, and I'm learning to program in different languages
 </div>
 ---
-<!--**Gerardo40010/Gerardo40010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###About Me:
 
