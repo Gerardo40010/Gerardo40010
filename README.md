@@ -15,5 +15,5 @@
 - 🤔 I am looking for help with programming in html
 - ⚡ Fun fact: 
 ---
-align="center" [![GitHub Streak](https://streak-stats.demolab.com?user=Gerardo40010&theme=neon&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Gerardo40010&theme=neon&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
