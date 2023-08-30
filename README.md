@@ -1,5 +1,5 @@
-<div aling-items=center justify-content: center;>
-<img src aling="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200"/>
+<div align="center">
+<img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" aling width="200"/>
 </div>
 <div id="header" aling="center">
   <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200" display: flex; />
