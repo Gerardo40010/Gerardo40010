@@ -1,5 +1,5 @@
 <div aling="center">
-<img aling="center" src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200"/>
+<img left=50% src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200"/>
 </div>
 <div id="header" aling="center">
   
