@@ -2,7 +2,6 @@
 <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" aling width="200"/>
 </div>
 <div id="header" aling="center">
-  <img src="https://media.giphy.com/media/77rvjVcaJr1BgKSXtR/giphy.gif" width="200" display: flex; />
 <h1 align="center">Hi 👋, I´m Gerardo40010</h1>
   <h3 aling="center">I like technology and use computers, and I'm learning to program in different languages
 </div>
